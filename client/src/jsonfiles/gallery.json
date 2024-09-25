@@ -1,0 +1,16 @@
+{
+  "images": [
+    { "id": 1, "src": "photogallery01.jpg", "alt": "Gallery 1" },
+    { "id": 2, "src": "photogallery02.jpg", "alt": "Gallery 2" },
+    { "id": 3, "src": "photogallery03.jpg", "alt": "Gallery 3" },
+    { "id": 4, "src": "photogallery04.jpg", "alt": "Gallery 4" },
+    { "id": 5, "src": "photogallery05.jpg", "alt": "Gallery 5" },
+    { "id": 6, "src": "photogallery06.jpg", "alt": "Gallery 6" },
+    { "id": 7, "src": "photogallery07.jpg", "alt": "Gallery 7" },
+    { "id": 8, "src": "photogallery08.jpg", "alt": "Gallery 8" },
+    { "id": 9, "src": "photogallery09.jpg", "alt": "Gallery 9" },
+    { "id": 10, "src": "photogallery10.jpg", "alt": "Gallery 10" },
+    { "id": 11, "src": "photogallery11.jpg", "alt": "Gallery 11" },
+    { "id": 12, "src": "photogallery12.jpg", "alt": "Gallery 12" }
+  ]
+}
